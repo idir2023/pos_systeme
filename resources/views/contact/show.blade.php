@@ -194,7 +194,7 @@
                                                     class="payPurchase_due btn btn-success btn-sm pull-right"
                                                     style="margin-left:5px">
                                                     <i class="fas fa-money-bill-alt" aria-hidden="true"></i>
-                                                    @lang('contact.pay_due_amount')
+                                                    @lang('pay')
                                                 </a>
                                             @endif
                                         @endif
@@ -205,7 +205,7 @@
                                                 class="paySale_due btn btn-success btn-sm pull-right"
                                                 style="margin-left:5px">
                                                 <i class="fas fa-money-bill-alt" aria-hidden="true"></i>
-                                                @lang('contact.pay_due_amount')
+                                                @lang('pay')
                                             </a>
                                         @endif
 
