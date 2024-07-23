@@ -1,0 +1,3 @@
+Replcae ImportProductsController
+
+Copy index.blade to resources\views\import_products
